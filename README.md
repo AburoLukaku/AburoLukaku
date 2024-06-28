@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AburoLukaku
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning HTML, CSS, JS, OOP, SQL
+- 🌱 I’m currently learning HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me +2347087508280 or x.com/AburoLukaku
 
